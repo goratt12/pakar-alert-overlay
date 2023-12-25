@@ -10,7 +10,7 @@ This C# application is designed to provide real-time alerts from the Israel Home
 
 
 ## Installation and Usage
-[Instructions for installation and usage]
+[Download Here](https://github.com/goratt12/pakar-alert-overlay/releases)
 
 ## Disclaimer
 
