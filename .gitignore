@@ -1,0 +1,4 @@
+bin/
+obj/
+.vs/
+pakar-alert-overlay.csproj.user
